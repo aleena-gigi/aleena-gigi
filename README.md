@@ -1,11 +1,8 @@
 <h1>Hello!</h1>
 <img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" align="right" width="240px">
 <p>I am <b>Aleena Gigi</b>,currently pursuing my bachelor's degree majoring in Computer Science and Engineering from Kerala Technical University</p>
-  <ul>
-    <li>I  am always curious to learn and build new things</li>
-    <li>Trying to be better at problem solving</li>
-  </ul>
- <p>Check out my Academic and Professional <a href="https://drive.google.com/file/d/1684EcUcnTeAVSspSYUBMSxGofiunwqsq/view?usp=sharing"><b>Resume</b></a></p>
+<p>I'm very proficient in Python and incredibly interested in web development.I'm a curious learner and always looking to build something new,constantly honing my problem solving.</p>
+<p>Check out my Academic and Professional <a href="https://drive.google.com/file/d/1684EcUcnTeAVSspSYUBMSxGofiunwqsq/view?usp=sharing"><b>Resume</b></a></p>
 <h3>Get in touch:</h3>
 <a href="https://www.instagram.com/_aleena_gigi_/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width="42px"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aleenagigi/"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" width="42px"></a>&nbsp;&nbsp;
