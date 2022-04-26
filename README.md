@@ -9,7 +9,7 @@
 <h3>Get in touch:</h3>
 <a href="https://www.instagram.com/_aleena_gigi_/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width="42px"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aleenagigi/"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" width="42px"></a>&nbsp;&nbsp;
-<a href="mailto:aleenagigi16@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="42px"></a>&nbsp;&nbsp;
+<a href="mailto:aleenagigi16@gmail.com?"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="42px"></a>&nbsp;&nbsp;
 <h3>My Tech Stack:</h3>
 <table>
   <tr>
