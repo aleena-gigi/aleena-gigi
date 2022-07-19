@@ -37,7 +37,7 @@
         <br><span valign="bottom">Ubuntu</span>
       </td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/linux-21-1174928.png" width="42px">
-        <br><span valign="bottom">Linex</span>
+        <br><span valign="bottom">Linux</span>
       </td>
       <td><img src="https://cdn-icons-png.flaticon.com/128/888/888882.png" width="42px">
         <br><span valign="bottom">Windows</span>
