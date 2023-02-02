@@ -28,6 +28,12 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3628940-3030165.png" width="42px">
       <br><span valign="bottom">My SQL</span>
     </td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="42px">
+      <br><span valign="bottom">JS</span>
+    </td>
+      <td><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="42px">
+      <br><span valign="bottom">Node JS</span>
+    </td>
   </tr>
   </table>
   <h3>Operating Systems</h3>
